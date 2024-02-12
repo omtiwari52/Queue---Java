@@ -1,6 +1,6 @@
 package Queues;
 
-public class QueueArray {
+public class ArrayQueue {
     static class Queue{
         static int arr[];
         static int size;
